@@ -4,7 +4,7 @@ In this lab we will be making a simple blog platform. In many ways this app will
 
 ##Objective
 * User should be able to go to a form, and fill out a blog post containing `post` and `author`
-* When storing the `post` use a `1 to many relationship` between author and blog post.
+* When storing the `post` use a `1 to many relationship` between author and blog post. // what are associations? 
 * Have a main route `/blog` that will contain all blog posts sorted by date
 * Have a route to only display the blog post by 1 user. User a url like `/user/5`
 
